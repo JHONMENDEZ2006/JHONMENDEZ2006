@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JHONMENDEZ2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 HOLA ME LLAMO JHON MENDEZ
+- 👀 EN ESTE PERFIL ESTA FENIXBOT
+- 🌱 EL CUAL PRONTO ESTARA PA TI
+- 💞️ ESPERO Q TENGAS UN LINDO DIA
+- 📫 ¿ESCRIBEME SI ALGUNA DUDA?
 
 <!---
 JHONMENDEZ2006/JHONMENDEZ2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
