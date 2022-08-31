@@ -4,6 +4,8 @@
 - 💞️ ESPERO Q TENGAS UN LINDO DIA
 - 📫 ¿ESCRIBEME SI ALGUNA DUDA?
 
+![img](https://imgur.com/aqyI6wx.png)
+
 <!---
 JHONMENDEZ2006/JHONMENDEZ2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
